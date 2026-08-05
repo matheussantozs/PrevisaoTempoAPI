@@ -1,2 +1,2 @@
 # PrevisaoTempoAPI
-https://matheussantozs.github.io/PrevisaoTempoAPI/
+https://matheussantozs.github.io/PrevisaoTempoAPI/PrevisaoTempoAPI/
